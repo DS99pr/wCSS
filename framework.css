@@ -1,0 +1,62 @@
+.italic {
+    font-style: italic;
+    font-weight: 600;
+    font-size: 1.2em;
+}
+.bold {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+.big {
+    font-size: 3em;
+}
+.small {
+    font-size: 0.5em;
+}
+.center {
+    align-content: center;
+    text-align: center;
+}
+.spoilerWhiteTheme {
+    background-color: black;
+    display: inline-block;
+    color: black;
+
+}
+.spoilerWhiteTheme:hover {
+    background-color: white;
+    color: black; 
+}
+.spoilerBlackTheme {
+    background-color: white;
+    color: white;
+    display: inline-block;
+}
+.spoilerBlackTheme:hover {
+    background-color: black;
+    color: white;
+}
+.textShadow {
+    text-shadow: 5px 5px 10px gray;
+}
+.monospaceFont {
+    font-family: monospace;
+}
+button.buttonRed {
+    background-color: #df4a4a;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+}
+button.buttonGreen {
+    background-color: #60fa52;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+}
+button.buttonBlue {
+    background-color: #0174c0;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+}
