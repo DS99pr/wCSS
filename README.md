@@ -22,11 +22,11 @@
 
 **.monospaceFont** - *A class that changes the font to monospace*,
 
-**.buttonRed** - *A class that makes a red button; designed for <button>*,
+**.buttonRed** - *A class that makes a red button; designed for \<button\>*,
 
-**.buttonGreen** - *A class that makes a green button; designed for <button>*,
+**.buttonGreen** - *A class that makes a green button; designed for \<button\>*,
 
-**.buttonBlue** - *A class that makes a blue button; designed for <button>*,
+**.buttonBlue** - *A class that makes a blue button; designed for \<button\>*,
 
 ### Yes, I know these are probably the most random classes you've seen.
 
